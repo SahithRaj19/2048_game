@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
-#include <sys/termios.h>
+#include <termios.h>
 #include <unistd.h>
 
 #define SIZE 4
